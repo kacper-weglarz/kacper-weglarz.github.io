@@ -3,8 +3,8 @@
 }
 
 .dark-mode {
-  background-color: black;
-  color: white;
+  background-color: rgb(255, 255, 255);
+  color: #000000;
 }
 
 body {
@@ -42,7 +42,7 @@ p {
 }
 x {
   margin-bottom: 1.5em;
-  background-color: darkkhaki;
+  background-color: #3542fb;
   backface-visibility: visible;
 }
 
@@ -113,7 +113,7 @@ figure figcaption {
   width: 300px;
   position: fixed;
   z-index: 1001;
-  background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
+  background: linear-gradient(135deg, rgb(165, 185, 221), rgb(83, 90, 172));
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -128,7 +128,7 @@ figure figcaption {
     -o-transform: translateX(-300px);
     transform: translateX(-300px);
     padding-top: 4em;
-    background-color: #f9bf3f;
+    background-color: #535aac;
     height: -webkit-fill-available;
     left: 0px;
   }
@@ -217,7 +217,7 @@ figure figcaption {
   bottom: 7px;
   left: 0;
   right: 0;
-  background-color: #2c98f0;
+  background-color: #000000;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
@@ -286,11 +286,11 @@ figure figcaption {
   padding: 4px;
 }
 #colorlib-aside .colorlib-footer h3 a {
-  color: #ff722c;
+  color: rgba(78, 13, 110, 0.5);
   font-size: 18px;
 }
 #colorlib-aside .colorlib-footer ul li a {
-  color: rgba(255, 255, 255, 0.3);
+  color: rgb(39, 39, 39);
   padding: 4px;
 }
 #colorlib-aside .colorlib-footer ul li a:hover,
@@ -330,7 +330,7 @@ body.offcanvas #colorlib-aside {
   -o-transform: translateX(0);
   transform: translateX(0);
   width: 372px;
-  background-color: #f9bf3f;
+  background-color: rgba(78, 13, 110, 0.5);
   z-index: 999;
   position: fixed;
 }
@@ -462,7 +462,7 @@ body.offcanvas .colorlib-nav-toggle {
   position: absolute;
   display: block;
   width: 4px;
-  background: #f9bf3f;
+  background: #a5b9dd;
   top: 20px;
   bottom: 20px;
   margin-left: 29px;
@@ -485,15 +485,15 @@ body.offcanvas .colorlib-nav-toggle {
   display: block;
   width: 40px;
   height: 40px;
-  background: #2c98f0;
+  background: rgba(78, 13, 110, 0.5);
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
   text-align: center;
-  -moz-box-shadow: 0 0 0 5px #f2f3f7;
-  -webkit-box-shadow: 0 0 0 5px #f2f3f7;
-  box-shadow: 0 0 0 5px #f2f3f7;
+  -moz-box-shadow: 0 0 0 5px rgba(78, 13, 110, 0.5);
+  -webkit-box-shadow: 0 0 0 5px rgba(78, 13, 110, 0.5);
+  box-shadow: 0 0 0 5px rgb(165, 185, 221);
   line-height: 40px;
   float: left;
 }
@@ -501,8 +501,8 @@ body.offcanvas .colorlib-nav-toggle {
   .timeline-entry
   .timeline-entry-inner
   .timeline-icon.color-2 {
-  background: brown;
-  color: white;
+  background: #593c67;
+  color: #ffffff;
 }
 .timeline-centered
   .timeline-entry
@@ -516,7 +516,7 @@ body.offcanvas .colorlib-nav-toggle {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
   position: relative;
-  background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
+  background: linear-gradient(135deg, rgb(165, 185, 221), rgb(83, 90, 172));
   color: #000;
   padding: 1.2em;
   margin-left: 60px;
@@ -787,7 +787,7 @@ ul {
   top: 16px;
   left: 12px;
   font-size: 18px;
-  color: #595959;
+  color: #272727;
   -webkit-transition: all 0.4s ease;
   -o-transition: all 0.4s ease;
   transition: all 0.4s ease;
@@ -842,7 +842,7 @@ ul {
 }
 
 .publish-date {
-  color: dimgray;
+  color: #272727;
   font-size: 12px;
   margin-bottom: 0px;
   font-weight: 600;
@@ -875,7 +875,7 @@ span {
 }
 
 :root {
-  --footer-bg: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
+  --footer-bg: linear-gradient(135deg, rgb(165, 185, 221), rgb(83, 90, 172));
   --color: #000;
   --color-smooth: #000;
   --input-border: #3a456a;
@@ -932,8 +932,8 @@ footer ul {
 }
 
 .brown-badge {
-  background-color: brown;
-  border: 1px solid #850101;
+  background-color: rgba(78, 13, 110, 0.5);
+  border: 1px solid rgba(53, 11, 74, 0.5);
   color: #fff;
 }
 
@@ -951,7 +951,7 @@ hr {
   flex: 1 0 48%;
   padding: 10px;
   font-size: 14px;
-  background: linear-gradient(135deg, #ffdd99, #f9bf3f);
+  background: linear-gradient(135deg, #a5b9dd, #535aac);
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   cursor: pointer;
 }
@@ -965,7 +965,7 @@ hr {
 .repo-stars,
 .repo-forks {
   font-size: 14px;
-  color: #444;
+  color: #272727;
   margin-top: 12px;
 }
 
@@ -985,12 +985,12 @@ hr {
 }
 
 strong {
-  color: #000;
+  color: #535aac;
 }
 
 .dark-mode {
   strong {
-    color: #f9bf3f;
+    color: rgb(83, 90, 172);
   }
 }
 
@@ -1001,7 +1001,7 @@ strong {
   overflow: hidden;
   transition: transform 0.3s ease;
   padding: 16px;
-  background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
+  background: linear-gradient(135deg, rgb(165, 185, 221), rgb(83, 90, 172));
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   cursor: pointer;
 }
@@ -1027,7 +1027,7 @@ strong {
 .publish-date {
   margin: 0 0 5px;
   font-size: 12px;
-  color: #555;
+  color: #272727;
 }
 
 .blog-description {
@@ -1060,7 +1060,7 @@ strong {
 
 .repo-description {
   font-size: 12px;
-  color: #555;
+  color: #272727;
 }
 
 .stats-row {
@@ -1068,8 +1068,8 @@ strong {
   align-items: center;
   gap: 16px;
   margin-top: 12px;
-  font-size: 12px;
-  color: #666;
+  font-size: 12px;272727FF
+  color: #272727;
 }
 
 .language-div {
@@ -1081,7 +1081,7 @@ strong {
 .language-dot {
   width: 8px;
   height: 8px;
-  background-color: #666;
+  background-color: #272727;
   border-radius: 50%;
   display: inline-block;
 }
@@ -1106,7 +1106,7 @@ strong {
 
 .copyright-text {
   text-align: center;
-  color: #333;
+  color: #272727;
 }
 
 .profile-card {
@@ -1116,7 +1116,7 @@ strong {
   border-radius: 5px;
   padding: 12px;
   font-size: 14px;
-  background: linear-gradient(135deg, #ffdd99, #f9bf3f);
+  background: linear-gradient(135deg, #a5b9dd, #535aac);
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s ease-in-out;
 }
@@ -1146,7 +1146,7 @@ strong {
 .profile-username {
   margin: 4px 0 0;
   font-size: 12px;
-  color: #555;
+  color: #272727;
 }
 
 .profile-stats {
@@ -1158,7 +1158,7 @@ strong {
 
 .stat-label {
   font-size: 12px;
-  color: #666;
+  color: #272727;
   margin: 0;
 }
 
@@ -1179,27 +1179,9 @@ strong {
   margin-bottom: 4px;
 }
 
-.badge-stack {
-  background-color: #f48024;
-  border: 1px solid #c66a17;
-  color: #fff;
-}
-
-.badge-github {
-  background-color: #000;
-  border: 1px solid #333;
-  color: #fff;
-}
-
-.badge-leetcode {
-  background-color: #ffc01e;
-  border: 1px solid #ffb300;
-  color: #111;
-}
-
 .profile-url {
   font-size: 11px;
-  color: #333;
+  color: #272727;
   word-break: break-all;
 }
 
@@ -1207,7 +1189,7 @@ strong {
   font-size: 10px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #666;
+  color: #272727;
   margin: 0px;
 }
 
@@ -1274,11 +1256,11 @@ strong {
 
 .trek-meta {
   font-size: 10px;
-  color: #666;
+  color: #272727;
 }
 
 .trek-height .badge {
-  background-color: #f9bf3f;
+  background-color: rgba(78, 13, 110, 0.5);
   color: #000;
   border-radius: 20px;
   padding: 5px 12px;
@@ -1314,7 +1296,7 @@ strong {
   }
   
   .home-link:hover {
-	background: #f9bf3f;
+	background: rgba(78, 13, 110, 0.5);
 	color: #000;
 	transform: translateX(-5px);
   }
