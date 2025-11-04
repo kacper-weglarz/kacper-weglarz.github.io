@@ -73,7 +73,7 @@ When I'm not coding or managing IT systems, you can find me working on personal 
 
 ## 🌐 Find Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yanni--alpinek.github.io-blue?style=flat&logo=github)](https://kacper-weglarz.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kacper-weglarz.github.io-blue?style=flat&logo=github)](https://kacper-weglarz.github.io)
 [![Email](https://img.shields.io/badge/Email-kacperw268@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kacperw268@gmail.com)
 
 ---
@@ -81,3 +81,4 @@ When I'm not coding or managing IT systems, you can find me working on personal 
 **Currently seeking Junior Java Developer opportunities in Warsaw or remote!**
 
 📍 Warsaw, Poland | 🎓 WSB Merito University | 🎖️ Polish Armed Forces
+
