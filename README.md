@@ -47,9 +47,9 @@ I'm a Computer Science student and IT Systems Administrator with a passion for b
 
 ## 🚀 Featured Projects
 
-### [Multiplayer Combat Game](https://github.com/yanni-alpinek/multiplayer-combat-game)
-Real-time multiplayer game with Spring Boot and WebSocket supporting 100+ concurrent players.  
-**Tech:** Java, Spring Boot, JavaFX, WebSocket, REST API
+### [Real-time Collaboration Tool](https://github.com/kacper-weglarz/realtime-collaboration)
+Web-based document editor with real-time editing, user authentication, and document sharing.  
+**Tech:** Java, Spring Boot, REST API, WebSockets, JPA, MySQL, JavaFX, MVC Architecture
 
 ### [SPH Fluid Simulation](https://github.com/yanni-alpinek/SPH-FluidSim)
 Physics simulation using Smoothed Particle Hydrodynamics with 1500+ particles demonstrating fluid dynamics.  
@@ -81,4 +81,5 @@ When I'm not coding or managing IT systems, you can find me working on personal 
 **Currently seeking Junior Java Developer opportunities in Warsaw or remote!**
 
 📍 Warsaw, Poland | 🎓 WSB Merito University | 🎖️ Polish Armed Forces
+
 
