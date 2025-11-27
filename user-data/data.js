@@ -8,24 +8,20 @@ const data ={
     "skills": [
         "Java",
         "OOP",
-        "JPA",
-        "Java Swing",
-        "JavaFX",
-        "Hibernate",
+        "JPA & Hibernate",
+        "Java Swing & JavaFX",
         "Spring Boot",
         "REST API Design",
-        "MySQL",
-        "SQL Server",
-        "IntelliJ IDEA",
-        "Git",
-        "GitHub",
         "MVC Architecture",
         "Multithreading",
-        "Canvas Rendering",
         "Event-Driven Programming",
+        "Canvas Rendering",
         "Debugging",
         "Problem Solving",
-        "Algorithm Design"
+        "Algorithm Design",
+        "MySQL & SQL Server",
+        "IntelliJ IDEA",
+        "Git & GitHub"
     ],
     "experience": [
         {
