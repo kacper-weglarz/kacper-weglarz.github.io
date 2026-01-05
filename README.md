@@ -63,7 +63,7 @@ Interactive spring-mass physics system with configurable parameters and real-tim
 
 ## 💼 About Me
 
-I've built several projects from scratch including real-time multiplayer games, physics simulations, and interactive GUI applications. I enjoy solving complex problems through code and learning new technologies hands-on.
+I've built several projects from scratch including real-time-CollaborationTool, physics simulations. I enjoy solving complex problems through code and learning new technologies hands-on.
 
 My technical focus includes Spring Boot, JavaFX, server infrastructure, and network administration. I'm looking for opportunities to grow as a Java developer and contribute to meaningful projects while completing my military service and studies.
 
@@ -80,6 +80,7 @@ When I'm not coding or managing IT systems, you can find me working on personal 
 
 **Currently seeking Junior Java Developer opportunities in Warsaw or remote!**
 
-📍 Warsaw, Poland | 🎓 WSB Merito University | 🎖️ Polish Armed Forces
+📍 Warsaw, Poland | 🎓 WSB Merito University 
+
 
 
