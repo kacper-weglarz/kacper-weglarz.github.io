@@ -1,86 +1,68 @@
-# Hi there! 👋 I'm Kacper
+<h1 align="center">Hi 👋, I'm Kacper Weglarz</h1>
+<h4 align="center">Computer Science Student | IT Systems Administrator | Java Developer</h4>
 
-**Computer Science Student | IT Systems Administrator | Java Developer**
+<p>I'm a Computer Science student and IT Systems Administrator with a passion for building practical software solutions. Currently serving in the Polish Armed Forces while pursuing my degree, I specialize in Java development, system administration, and network infrastructure.</p>
 
-I'm a Computer Science student and IT Systems Administrator with a passion for building practical software solutions. Currently serving in the Polish Armed Forces while pursuing my degree, I specialize in Java development, system administration, and network infrastructure.
-
----
-
-## 🔧 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=flat&logo=java&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-
-### Concepts & Architecture
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC_Architecture-4285F4?style=flat&logo=google&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-007396?style=flat&logo=java&logoColor=white)
-![Multithreading](https://img.shields.io/badge/Multithreading-ED8B00?style=flat&logo=java&logoColor=white)
-![STOMP](https://img.shields.io/badge/STOMP_Protocol-6DB33F?style=flat&logo=spring&logoColor=white)
-
-### System Administration
-![System Administration](https://img.shields.io/badge/System_Administration-0078D6?style=flat&logo=windows-terminal&logoColor=white)
-![Network Configuration](https://img.shields.io/badge/Network_Configuration-0066CC?style=flat&logo=cisco&logoColor=white)
-![Virtualization](https://img.shields.io/badge/Virtualization-0091DA?style=flat&logo=vmware&logoColor=white)
+<h3 align="center">Currently seeking Junior Java Developer opportunities in Warsaw or remote!</h3>
 
 ---
 
-## 🚀 Featured Projects
+<h1 align="center">🔧 Tech Stack</h1>
 
-### [Real-time Collaboration Tool](https://github.com/kacper-weglarz/realtime-collaboration)
-Web-based document editor with real-time editing, user authentication, and document sharing.  
-**Tech:** Java, Spring Boot, REST API, WebSockets, JPA, MySQL, JavaFX, MVC Architecture
+<h3 align="center">Backend</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
+</p>
+<p align="center">Java &nbsp;| &nbsp; Spring Boot &nbsp;| &nbsp; Hibernate</p>
 
-### [SPH Fluid Simulation](https://github.com/yanni-alpinek/SPH-FluidSim)
-Physics simulation using Smoothed Particle Hydrodynamics with 1500+ particles demonstrating fluid dynamics.  
-**Tech:** Java, JavaFX, Physics Algorithms
+<h3 align="center">Database</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+</p>
+<p align="center">PostgreSQL &nbsp;| &nbsp; MySQL</p>
 
-### [Mass-Spring Simulation](https://github.com/yanni-alpinek/mass-spring-simulation)
-Interactive spring-mass physics system with configurable parameters and real-time visualization.  
-**Tech:** Java, Swing, GUI Programming
+<h3 align="center">Testing</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
+</p>
+<p align="center">JUnit 5 &nbsp;| &nbsp; Postman</p>
+
+<h3 align="center">I’m currently learning - Frontend</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://vitejs.dev/logo.svg" width="45" height="45"/>
+</p>
+<p align="center">React &nbsp;| &nbsp; TailwindCSS &nbsp;| &nbsp; TypeScript &nbsp;| &nbsp; Vite</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
+</p>
+<p align="center">Git &nbsp;| &nbsp; Maven &nbsp;| &nbsp; IntelliJ &nbsp;| &nbsp; Linux &nbsp;| &nbsp; Docker</p>
 
 ---
 
-## 💼 About Me
-
-I've built several projects from scratch including real-time-CollaborationTool, physics simulations. I enjoy solving complex problems through code and learning new technologies hands-on.
-
-My technical focus includes Spring Boot, JavaFX, server infrastructure, and network administration. I'm looking for opportunities to grow as a Java developer and contribute to meaningful projects while completing my military service and studies.
-
-When I'm not coding or managing IT systems, you can find me working on personal projects, learning about algorithms, or exploring new programming concepts.
-
----
-
-## 🌐 Find Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-kacperweglarz.github.io-blue?style=flat&logo=github)](https://kacper-weglarz.github.io)
-[![Email](https://img.shields.io/badge/Email-kacperw268@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kacperw268@gmail.com)
+<h1 align="center">🌐 Find Me</h1>
+<p align="center">
+    <a href="mailto:kacperw268@gmail.com" style="text-decoration:none; color:white;">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="45" height="45"/>
+    </a> &nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kacper-w%C4%99glarz-53627a382" style="text-decoration:none; color:black;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+    </a>
+</p>
+<p align="center">Email &nbsp;| &nbsp; LinkedIn</p>
 
 ---
 
-**Currently seeking Junior Java Developer opportunities in Warsaw or remote!**
-
-📍 Warsaw, Poland | 🎓 WSB Merito University 
-
-
-
+<h3 align="center">📍 Warsaw, Poland | 🎓 WSB Merito University</h3>
