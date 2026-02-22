@@ -1,27 +1,20 @@
 const data ={
   "bio": [
-      "I'm a Computer Science student and IT Systems Administrator with a passion for building practical software solutions. Currently serving in the Polish Armed Forces while pursuing my degree, I specialize in Java development, system administration, and network infrastructure.",
-      "I've built several projects from scratch including a real-time multiplayer game with Spring Boot and WebSocket, a fluid physics simulation using SPH algorithms, and interactive GUI applications with JavaFX. I enjoy solving complex problems through code and learning new technologies hands-on.",
-      "My technical focus includes Spring Boot, JavaFX, server infrastructure, and network administration. I'm looking for opportunities to grow as a Java developer and contribute to meaningful projects while completing my military service and studies.",
-      "When I'm not coding or managing IT systems, you can find me working on personal projects, learning about algorithms, or exploring new programming concepts."
+      "Computer Science student and IT Systems Administrator in the Polish Armed Forces. I bridge the gap between mission-critical infrastructure management and modern backend development.",
+      "My technical focus is on building scalable Java applications with Spring Boot. I combine military discipline with a deep understanding of server environments to deliver secure and efficient software solutions."
   ],
     "skills": [
-        "Java",
-        "OOP",
+        "Java & Spring Boot",
         "JPA & Hibernate",
-        "Java Swing & JavaFX",
-        "Spring Boot",
         "REST API Design",
-        "MVC Architecture",
-        "Multithreading",
-        "Event-Driven Programming",
-        "Canvas Rendering",
-        "Debugging",
-        "Problem Solving",
-        "Algorithm Design",
-        "MySQL & SQL Server",
+        "PostgreSQL & MySQL",
+        "Git & GitHub",
+        "Maven",
+        "JUnit 5",
         "IntelliJ IDEA",
-        "Git & GitHub"
+        "Docker & Containerization",
+        "Windows System Administration",
+        "Network Infrastructure & Security",
     ],
     "experience": [
         {
@@ -79,26 +72,26 @@ const data ={
     },
     {
       "label": "LinkedIn",
-      "link": "bedzie link",
+      "link": "https://www.linkedin.com/in/kacper-węglarz-53627a382",
       "icon": "fa-brands fa-linkedin"
     },
     {
       "label": "GitHub",
-      "link": "https://github.com/kacper-weglarz",
+      "link": "https://github.com/kacper-weglarz/kacper-weglarz.github.io",
       "icon": "fa-brands fa-github"
     },
   ],
   "footer": [
     {
-      "label": "Links",
+      //"label": "Links",
       "data": [
         {
-          "text": "Github",
-          "link": "https://github.com/kacper-weglarz/kacper-weglarz.github.io"
+          //"text": "Github",
+          //"link": "https://github.com/kacper-weglarz/kacper-weglarz.github.io"
         },
           {
-              "text": "LinkedIn",
-              "link": "link do linkdina"
+              //"text": "LinkedIn",
+              //"link": "www.linkedin.com/in/kacper-węglarz-53627a382"
           }
       ]
     },
